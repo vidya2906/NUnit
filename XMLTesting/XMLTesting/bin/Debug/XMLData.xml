@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+	<user>
+		<Name>abc</Name>
+		<Email>def</Email>
+		<CA>kol</CA>
+		<PA>india</PA>
+	</user>
+	<user>
+		<Name>ghi</Name>
+		<Email>jkl</Email>
+		<CA>how</CA>
+		<PA>india</PA>
+	</user>
+	<user>
+		<Name>mno</Name>
+		<Email>pqr</Email>
+		<CA>dgr</CA>
+		<PA>india</PA>
+	</user>
+</users>
